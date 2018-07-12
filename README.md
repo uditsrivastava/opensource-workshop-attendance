@@ -1,1 +1,2 @@
-# opensource-workshop-attendance
+# List of students that attended the opensource workshop 
+
